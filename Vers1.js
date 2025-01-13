@@ -14,7 +14,7 @@
         getInfo() {
             return {
                 id: 'assetmanager',
-                name: 'Asset Manager',
+                name: 'Asset Leader',
                 blocks: [
                     // URL veya yerelden öğe ekleme
                     {
